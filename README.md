@@ -48,13 +48,16 @@ All functions used in the simulations as well as real data analysis.
 
 #### Poisson
 **Sim_Poi_bijxij.R**
-Simulation code for Model 4 with Poisson assumption , i.e. with the linear predictor $\eta^{(k)}_{ij} =  \boldsymbol{\alpha}_{ij}^{\top} \boldsymbol{z}^{(k)} + \boldsymbol{\beta}_{ij}^{\top}\boldsymbol{x}^{(k)}_{ij}$.
+
+Simulation code for Model 4 with Poisson assumption , i.e. with the linear predictor $\eta$ $\eta^{(k)}_{ij} =  \boldsymbol{\alpha}_{ij}^{\top} \boldsymbol{z}^{(k)} + \boldsymbol{\beta}_{ij}^{\top}\boldsymbol{x}^{(k)}_{ij}$.
 
 **Sim_Poi_bxij.R**
+
 Simulation code for Model 3 with Poisson assumption , i.e. with the linear predictor $\eta^{(k)}_{ij} =  \boldsymbol{\alpha}_{ij}^{\top} \boldsymbol{z}^{(k)} + \boldsymbol{\beta}^{\top}\boldsymbol{x}^{(k)}_{ij}$.
 
 #### ZAGA
 **Sim_ZAGA_bijxijwij.R**
+
 Simulation code for Model 5 with ZAGA assumption , i.e. with the linear predictor $\eta^{(k)}_{ij} = \boldsymbol{\alpha}_{ij}^{\top} \boldsymbol{z}^{(k)} + \boldsymbol{\beta}_{ij}^{\top}\boldsymbol{x}^{(k)}_{ij} + \boldsymbol{\gamma}^{\top} \boldsymbol{w}_{ij}$.
 
 ### Realdata 
