@@ -49,7 +49,7 @@ All functions used in the simulations as well as real data analysis.
 #### Poisson
 **Sim_Poi_bijxij.R**
 
-Simulation code for Model 4 with Poisson assumption , i.e. with the linear predictor $\eta$ $\eta^{(k)}_{ij} =  \boldsymbol{\alpha}_{ij}^{\top} \boldsymbol{z}^{(k)} + \boldsymbol{\beta}_{ij}^{\top}\boldsymbol{x}^{(k)}_{ij}$.
+Simulation code for Model 4 with Poisson assumption , i.e. with the linear predictor $\eta_{ij}^{(k)}$ $\eta^{(k)}_{ij} =  \boldsymbol{\alpha}_{ij}^{\top} \boldsymbol{z}^{(k)} + \boldsymbol{\beta}_{ij}^{\top}\boldsymbol{x}^{(k)}_{ij}$.
 
 **Sim_Poi_bxij.R**
 
