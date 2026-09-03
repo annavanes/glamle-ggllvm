@@ -67,11 +67,15 @@ Fit for GLAMLE for WTO data and comparison to PPMLE fit.
 ## References
 C. Jiang, D. La Vecchia, and R. Rastelli. GLAMLE: inference for multiview network data in the presence of latent variables, with
 an application to commodities trading. Econometrics and Statistics, in press, 2025.
+
 E. Cantoni and E. Ronchetti. Robust inference for generalized linear models. Journal of the American Statistical Association,
 96(455):1022–1030, 2001.
+
 K. Kristensen, A. Nielsen, C. Berg, H. Skaug, and B. Bell. TMB: automatic differentiation and Laplace approximation. arXiv
 preprint arXiv:1509.00660, 2015.
+
 R. A. Rigby, M. D. Stasinopoulos, G. Z. Heller, and F. De Bastiani. Distributions for modeling location, scale, and shape: Using
 GAMLSS in R. Chapman and Hall/CRC, 2019.
+
 Z. Shun and P. McCullagh. Laplace approximation of high dimensional integrals. Journal of the Royal Statistical Society: Series
 B (Methodological), 57(4):749–760, 1995.
