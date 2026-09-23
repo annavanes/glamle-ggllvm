@@ -1,6 +1,8 @@
 # glamle-ggllvm
 Implementation code based on *Flexible latent variable models on graphs: Laplace approximated inference for multiview network data*, van Es, A., Cantoni, E., and La Vecchia, D. (2026). Arxiv preprint: [https://arxiv.org/abs/2609.26495](https://arxiv.org/abs/2609.26495).
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo-blue.svg)](https://doi.org/10.5281/zenodo.22913772)
+
 ## WTO Data
 The folder "data" contains the dataset used in the analysis. It consists of [WTO](https://data.wto.org) data for year 2022 and variables from `cepiigeodist` package in R, with the following columns:
 - `year`: Year of the data (2022).
