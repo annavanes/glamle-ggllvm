@@ -10,7 +10,7 @@ authors:
 - family-names: "La Vecchia"
   given-names: "Davide"
   orcid: "https://orcid.org/0000-0001-7572-268X"
-title: "Implementation code based on Flexible latent variable models on graphs: Laplace approximated inference for multiview network data, van Es, A., Cantoni, E., and La Vecchia, D. (2026)"
+title: "Implementation code based on Flexible latent variable models on graphs: Laplace approximated inference for multiview network data, https://arxiv.org/pdf/2609.26495"
 version: 0.1.0
 doi: 10.5281/zenodo.22913772
 date-released: 2026-09-23
